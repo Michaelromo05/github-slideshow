@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slide slide!"
 ---
-"i'm so confused"
+"Super slide show"
 Use the left arrow to go back!
